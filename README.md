@@ -1,10 +1,8 @@
 # Magist performance analysis on sales and delivery with SQL and Tableau
  
 ## 🎯 Project Overview
-Our sample company for high-end tech products wanted to expand and conquer the Brazilian market. We don't have any connections to this market and wanted to find out if the sample company Magist would be a good fit.
-Approach:
-  - Using SQL to analyse the data provided by Magist
-  - Using Tableau to visualize the insights
+This project analyses if our sample company for high-end tech products that is planning to expand and conquere the Brazilian market should collaborate with the sample company Magist who is already operating on the Brazilian market and through whose website we would sell our products.
+We used SQL to analyse the data provided by Magist and Tableau to visualize the insights.
 Their product catalog and revenue didn't meet the expectations. The delivery times and delays were not convincing.
  
 ## 📊 Dataset &amp; Sources
