@@ -14,11 +14,12 @@ Their product catalog and revenue didn't meet the expectations. The delivery tim
 - Date of 3 years (not continous, there are missing months)
  
 ## 🚀 Key Findings &amp; Results
-- **Many sellers, but not many Tech sellers**: Only around 15 % tech sellers within the database.
-- **Cheaper products**: Average sales price is 120 dollars. Ours is 540.
+- **Many products, but not many tech products**: Only around 15 % tech products within the database.
+- **Cheaper products**: Average sales price is 120 dollars. Ours is 540 dollars.
 - **Revenue doesn't meet expectations**: We have a revenue of 14M per year, and the combined revenue of all tech sellers at Magist is at 2.1M within 3 years.
 - **Delivery time to long**: 12 days delays, which is too long for high-end products.
 There are to many cons to collaborate with this company: the delivery times are wy to long for high-end products and they don't serve our target audience.
+
 ## 🛠️ Technologies Used
 - Programming languages: SQL, MySQL Workbench
 - Tools: Tableau
@@ -27,13 +28,14 @@ There are to many cons to collaborate with this company: the delivery times are 
 In this project you will find the SQL analysis that we executed to get our insights.
  
 ## 📈 Visualisations
-- [Tech sellers vs. Non-tech products at Magist](images/Tech_vs_non_tech_products.png)
+- [Tech sellers vs. Non-tech products at Magist](images/Tech_vs_non_tech_products.png):
   Percentage of tech products and non-tech products
-- [Revenue of tech sellers and non-tech sellers at Magist](images/Tech_vs_non_tech_revenue.png)
+- [Revenue of tech sellers and non-tech sellers at Magist](images/Tech_vs_non_tech_revenue.png):
   Shows the revenue of sellers at Magist
-- [Average delivery days per seller distribution](images/Average_delivery_time.png)
+- [Average delivery days per seller distribution](images/Average_delivery_time.png):
   Shows the average delivery time at Magist
-- [Sales per state](images/Main_market_state.png)
+- [Sales per state](images/Main_market_state.png):
+  Shows the sales performance per state
 
 ## 🔗 How to Use This Project
 - View the SQL analysis
