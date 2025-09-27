@@ -27,13 +27,13 @@ There are to many cons to collaborate with this company: the delivery times are 
 In this project you will find the SQL analysis that we executed to get our insights.
  
 ## 📈 Visualisations
-*Tech sellers vs. Non-tech products at Magist*
-[images/](Tech_vs_non_tech_revenue.png)
-Percentage of tech products and non-tech products
-*Revenue of tech sellers and non-tech sellers at Magist*
-Shows the revenue of sellers at Magist
-*Average delivery days per seller distribution*
-Shows the average delivery time at Magist
+- [Tech sellers vs. Non-tech products at Magist](images/Tech_vs_non_tech_products.png)
+  Percentage of tech products and non-tech products
+- [Revenue of tech sellers and non-tech sellers at Magist](images/Tech_vs_non_tech_revenue.png)
+  Shows the revenue of sellers at Magist
+- [Average delivery days per seller distribution](images/Average_delivery_time.png)
+  Shows the average delivery time at Magist
+- [Sales per state](images/Main_market_state.png)
 
 ## 🔗 How to Use This Project
 - View the SQL analysis
