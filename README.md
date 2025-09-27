@@ -27,8 +27,9 @@ There are to many cons to collaborate with this company: the delivery times are 
 In this project you will find the SQL analysis that we executed to get our insights.
  
 ## 📈 Visualisations
-*Tech sellers vs. Non-tech sellers at Magist*
-Percentage of tech sellers and non-tech sellers
+*Tech sellers vs. Non-tech products at Magist*
+[images/](Tech_vs_non_tech_revenue.png)
+Percentage of tech products and non-tech products
 *Revenue of tech sellers and non-tech sellers at Magist*
 Shows the revenue of sellers at Magist
 *Average delivery days per seller distribution*
